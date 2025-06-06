@@ -25,6 +25,7 @@ function ex1() {
       alert(`Antecessor: ${n - 1}\nNúmero: ${n}\nSucessor: ${n + 1}`);
     }
 
+    
     function ex4() {
       let salario = parseFloat(prompt("Digite o salário:"));
       let novo = salario * 1.15;
